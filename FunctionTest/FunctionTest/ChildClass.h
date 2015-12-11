@@ -1,0 +1,13 @@
+//
+//  ChildClass.h
+//  FunctionTest
+//
+//  Created by Николай Стома on 09.08.15.
+//  Copyright (c) 2015 Николай Стома. All rights reserved.
+//
+
+#import "ParentClass.h"
+
+@interface ChildClass : ParentClass
+
+@end
